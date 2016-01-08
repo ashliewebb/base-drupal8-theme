@@ -1,5 +1,0 @@
-/* Font Size */
-@mixin font-size($size-value) {
-    font-size: ($size-value) + px;
-    font-size: ($size-value / $base-font-size) + em;
-}
